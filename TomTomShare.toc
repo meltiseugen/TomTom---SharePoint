@@ -1,0 +1,12 @@
+## Interface: 100207, 110000, 110002
+## Title: TomTom - Auto Shared Party Point
+## Author: Eugen Meltis @ meltiseugen@gmail.com
+## Version: 1.0.0
+## Dependencies: TomTom
+
+
+
+Configs.lua
+Utils.lua
+EventHandlers.lua
+TomTomShare.lua
